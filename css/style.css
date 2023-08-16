@@ -2,6 +2,12 @@ header{
     width: 1440px;
     height: 72px;
 }
+.header-layout{
+    width: 1440px;
+    height: 72px;
+    border: 1px;
+    border-bottom: 1px solid #E7E9FC
+    }
 nav{
     border-bottom: 1px solid #E7E9FC;
     width: 1440px;
@@ -48,16 +54,8 @@ height: 2592px;
 top: -1175px;
 left: 405px;
 } 
-.topline{
-width: 1440px;
-height: 72px;
-}
-.topline-layout{
-width: 1440px;
-height: 72px;
-border: 1px;
-border-bottom: 10px solid #E7E9FC
-}
+
+
 /* //WEBSTUDIO */
 .logo-layout{
 width: Hug (115px);
